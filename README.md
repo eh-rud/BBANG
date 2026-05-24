@@ -1,7 +1,11 @@
 # BBANG - Smart Farm Bakery Simulation
 
 ## UML Class Diagram
+
+### 1. UI UML
 ![UML Diagram](UI_UML.png)
+
+### 2. Code UML
 ![UML Diagram](CODE_UML.png)
 
 ---
