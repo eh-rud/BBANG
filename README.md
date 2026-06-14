@@ -2,4 +2,4 @@
 
 ## UML Class Diagram
 
-
+![Backend Core Inheritance](backend_Core_Inheritance_UML.png)
