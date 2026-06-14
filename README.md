@@ -20,3 +20,11 @@ A modular rendering architecture completely isolated from the business logic, ut
 #4. Full Project Overview
 ![Full Project Overview](full_Project_Overview_UML.png)
 A comprehensive blueprint of the system demonstrating loose coupling between the application (main), frontend, backend, and data layers via Data Transfer Objects (DTOs) without direct dependencies.
+
+## Simulation
+
+#1. Auto
+![Auto Simulation](auto.gif)
+
+#2. Auto
+![Manual Simulation](manual.gif)
