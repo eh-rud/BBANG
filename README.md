@@ -23,8 +23,8 @@ A comprehensive blueprint of the system demonstrating loose coupling between the
 
 ## Simulation
 
-#1. Auto
-![Auto Simulation](auto.gif)
+#1. Manual_Normal
+![Manual_Normal Simulation](manual.gif)
 
-#2. Auto
-![Manual Simulation](manual.gif)
+#2. Auto_Overflow
+![Auto_Overflow Simulation](auto_overflow.gif)
